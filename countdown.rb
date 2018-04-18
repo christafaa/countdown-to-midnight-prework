@@ -1,8 +1,6 @@
 #write your code here
 
 def countdown(n)
-  puts "hi mom"
-=begin
   count = n
 
   while n > 0
@@ -10,5 +8,5 @@ def countdown(n)
     count -= 1
   end
   puts "HAPPY NEW YEAR!"
-=end
+
 end
