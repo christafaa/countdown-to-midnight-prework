@@ -1,6 +1,7 @@
 #write your code here
 
 def countdown(n)
+  puts "hi mom"
 =begin
   count = n
 
